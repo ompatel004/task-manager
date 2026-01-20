@@ -17,6 +17,7 @@ The project follows a clean frontend–backend architecture and is designed for 
 
 ## 🏗️ Project Structure
 
+```
 task-manager/
 ├── frontend/
 │   ├── src/
@@ -28,7 +29,7 @@ task-manager/
 │   ├── package.json
 │
 └── README.md
-
+```
 ---
 
 ## 🛠️ Tech Stack
